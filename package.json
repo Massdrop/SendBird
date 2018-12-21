@@ -1,5 +1,5 @@
 {
-  "name": "SendBird-JavaScript",
+  "name": "@massdrop/SendBird",
   "version": "1.0.0",
   "description": "The samples in this repository are fully functional messaging applications built using the [SendBird](https://sendbird.com) JS SDK.",
   "main": "server.js",
